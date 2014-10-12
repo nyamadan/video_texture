@@ -1,0 +1,4 @@
+name: video_texture
+dependencies:
+  browser: any
+  vector_math: any
